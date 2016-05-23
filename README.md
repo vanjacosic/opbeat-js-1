@@ -1,9 +1,8 @@
-
+# Opbeat for frontend JS
 
 [![Build status](https://travis-ci.org/opbeat/opbeat-js.svg?branch=master)](https://travis-ci.org/opbeat/opbeat-js)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 <img src="http://opbeat-brand-assets.s3-website-us-east-1.amazonaws.com/svg/logo/logo.svg" align="right" height="25px">
-# Opbeat for frontend JS
 
 This is the official frontend JavaScript module for [Opbeat](https://opbeat.com). 
 
